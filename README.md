@@ -35,6 +35,35 @@ git clone https://github.com/CodeeWithArbab/Crypto-Hasher
 python cryptography.py
 ```
 
+## Example
+```bash
+$ python cryptography.py
+
+        ██████╗██████╗ ██╗   ██╗██████╗ ████████╗ ██████╗     ████████╗ ██████╗  ██████╗ ██╗
+        ██╔════╝██╔══██╗╚██╗ ██╔╝██╔══██╗╚══██╔══╝██╔═══██╗    ╚══██╔══╝██╔═══██╗██╔═══██╗██║
+        ██║     ██████╔╝ ╚████╔╝ ██████╔╝   ██║   ██║   ██║       ██║   ██║   ██║██║   ██║██║
+        ██║     ██╔══██╗  ╚██╔╝  ██╔═══╝    ██║   ██║   ██║       ██║   ██║   ██║██║   ██║██║
+        ╚██████╗██║  ██║   ██║   ██║        ██║   ╚██████╔╝       ██║   ╚██████╔╝╚██████╔╝███████╗
+        ╚═════╝╚═╝  ╚═╝   ╚═╝   ╚═╝        ╚═╝    ╚═════╝        ╚═╝    ╚═════╝  ╚═════╝ ╚══════╝
+                        This script is designed to help you with cryptography tasks.
+                                    Welcome to the Advanced Hashing Utility!
+                                          Auther : Arbab Gul
+                                            Version : 3.0
+Choose an option:
+1.MD5
+2.SHA1
+3.SHA256
+4.SHA-512
+5.SHA3-256
+6.SHA3-512
+7.BLAKE2s
+8.BLAKE2b
+9.BASE64
+10.HEX
+11.Exit
+Select Encryption method: 
+```
+
 ## Authors
 
 - [@CodeeWithArbab](https://github.com/CodeeWithArbab)
