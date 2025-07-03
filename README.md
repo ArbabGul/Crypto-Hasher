@@ -27,7 +27,7 @@ A comprehensive Python utility for cryptographic hashing and encoding operations
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/CodeeWithArbab/Crypto-Hasher
+git clone https://github.com/ArbabGul/Crypto-Hasher
 ```
 
 ## Usage
