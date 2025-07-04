@@ -66,4 +66,4 @@ Select Encryption method:
 
 ## Authors
 
-- [@CodeeWithArbab](https://github.com/CodeeWithArbab)
+- [@ArbabGul](mailto:codewitharbab@gmail.com)
